@@ -1,3 +1,3 @@
 # news_app
 
-News app in flutter
+News app in flutter using news api
